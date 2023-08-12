@@ -20,8 +20,12 @@
 
 html {
   scroll-behavior: smooth;
+  height:100%;
 }
 
+body{
+  height: 100%;
+}
 /* CSS Resets */
 * {
   margin: 0;
@@ -104,6 +108,7 @@ nav ul li {
 .appoint {
     background-color: var(--bg-color);
     padding: 1rem 6rem;
+    height: 100%;
   }
   .appoint h2 {
     background-color: azure;
@@ -126,4 +131,10 @@ nav ul li {
   .appoint p {
     line-height: var(--line-height);
     padding: 0.4rem;
+  }
+
+  #doctors{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
   }
