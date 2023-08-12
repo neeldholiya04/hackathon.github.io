@@ -1,4 +1,5 @@
-[(https://neeldholiya04.github.io/hackathon.github.io/)]
+## My Website Link
+https://neeldholiya04.github.io/hackathon.github.io/
 # Navjivan Healthcare Website
 
 
@@ -47,7 +48,7 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Create a pull request.
 
-Please follow our [code of conduct](/CODE_OF_CONDUCT.md) and [contribution guidelines](/CONTRIBUTING.md).
+
 
 ## License
 
